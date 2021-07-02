@@ -112,14 +112,14 @@ Outros aspectos...
 ## Cronograma
 
 #### Início
-Sexta, dia 02/07 as 18:30
+Sexta, dia 02/07 as 21hs
 
 #### Entrega do desafio
 Até as 9hs da manhã de Sábado, dia 03/07.
 Obs. Você terá a noite inteira para desenvolver seu projeto. 
 
 ### Divulgação dos ganhadores
-Sábado, dia 03/06, as 18h30
+Sábado, dia 03/06, as 18hs
 
 
 
