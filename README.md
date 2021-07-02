@@ -122,6 +122,14 @@ Obs. Você terá a noite inteira para desenvolver seu projeto.
 ### Divulgação dos ganhadores
 Sábado, dia 03/06, as 18hs
 
+### Envio do Desafio:
+
+- Envie um email com as seguintes informaçõeso para o email desafio.virada@gmail.com
+  
+  - Titulo: [**SEU_NOME COMPLETO** - DESAFIO_DA_VIRADA]
+  
+  - Corpo do email: Coloque o link do seu github 
+    - **não esqueça que o seu repositório deve ser PUBLICO.**  
 
 
 
