@@ -10,7 +10,7 @@ Nossa competição é composta por dois desafios individuais onde a pessoa inscr
 
 Antonella trabalha na empesa DevTechSystem. A próxima grande estratégia que a empresa gostaria de implementar é utilizar a aplicação Conexão QA para a criação de um perfil com seus cadastros e login para agilizar o processo de compartilhamento de um ou mais portfolios.
 
-- O detalhamento esta apresentado no escopo de trabalho.
+- Veja o detalhamento no item **escopo de trabalho**.
 
 
 ##### URL do sistema:
@@ -95,19 +95,19 @@ Outros aspectos...
 
 ### Grupo 1 - Planejamento de testes
 #### 1º lugar: 
-    <Prêmio>
+- R$ 1000,00 + voucher ZenKlub + 1 curso da Iterasys a escolher.
 #### 2º lugar: 
-    <Prêmio>
+- R$ 500,00 + voucher ZenKlub + 1 curso da Iterasys a escolher.
 #### 3º lugar: 
-    <Prêmio>
+- R$ 300,00 + voucher ZenKlub + 1 curso da Iterasys a escolher.
+
 ### Grupo 2 - Automação de testes
 #### 1º lugar:
-    <Prêmio>
+- R$ 1200,00 + voucher Ambev  + 1 curso da Iterasys a escolher.
 #### 2º lugar: 
-    <Prêmio>
+- R$ 600,00 + voucher Ambev  + 1 curso da Iterasys a escolher.
 #### 3º lugar: 
-    <Prêmio>
-
+- R$ 400,00 + voucher Ambev  + 1 curso da Iterasys a escolher.
 
 ## Cronograma
 
@@ -115,7 +115,7 @@ Outros aspectos...
 Sexta, dia 02/07 as 18:30
 
 #### Entrega do desafio
-Até as 9hs de Sábado, dia 03/07
+Até as 9hs da manhã de Sábado, dia 03/07.
 Obs. Você terá a noite inteira para desenvolver seu projeto. 
 
 ### Divulgação dos ganhadores
