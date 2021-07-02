@@ -1,31 +1,60 @@
 # Regulamento
 
-### Sobre o desafio:
-<descrição do desafio aqui>
+### Sobre os desafio:
 
-##### Link da História de Usuário:
-<.link aqui>
+Nossa competição é composta por dois desafios individuais onde a pessoa inscrita pode escolher uma das opções:
+1. a opção de **Planejamento de Testes** onde os candidatos farão um planejamento com fluxos principais e alternativos utilizando as melhores tecnicas/heuristicas do mercado atual e demais ações definidas na descrição detalhada do item. 
+2. a opção de **Testes Automatizados** onde os candidatos farão a utilização da linguagem/framework de sua preferência com foco em melhores praticas de programação e demais ações definidas na descrição detalhada da opção. 
+
+##### História de Usuário:
+
+Antonella trabalha na empesa DevTechSystem. A próxima grande estratégia que a empresa gostaria de implementar é utilizar a aplicação Conexão QA para a criação de um perfil com seus cadastros e login para agilizar o processo de compartilhamento de um ou mais portfolios.
+
+- O detalhamento esta apresentado no escopo de trabalho.
+
 
 ##### URL do sistema:
-<.link aqui>
-Frontend: https://conexaoqa.herokuapp.com/
-Backend: https://conexaoqa.herokuapp.com/api-docs/
+- Frontend: https://conexaoqa.herokuapp.com/
+- Backend: https://conexaoqa.herokuapp.com/api-docs/
 
-## Grupo 1 - Planejamento de testes
+## Escopo de Trabalho da historia de usuário:
 
-Rascunho: 
-- Resumo: Candidato deve fazer um planejamento de teste da aplicação Conexão QA, sempre que possível aplicando técnicas de testes...
+- Sobre o **Cadastro**
 
-- Criar cenários de testes com fluxos princiapais e alternativos (Cenários em Gherkin será um diferencial, aplicando melhores práticas de otimização);
+1. Todos os campos são obrigatórios
+2. Email deve ter o formato de email, ex usuario@dominio.com
+3. Senha deve ter no mínimo 6 caracteres
+4. Confirmar senha deve ser igual ao campo senha
+5. Não é permitido cadastrar usuários duplicados com mesmo email, exibir alerta de "Usuário já registrado" por 6 segundos
+6. A página de cadastro deve conter um link para página de login
+7. O sistema ainda não está integrado com o Gravatar 
+Ao realizar um cadastro válido o usuário é automaticamente redirecionado para página de Dashboard
 
+- Sobre o **Login**
+1. Email deve ter o formato de email
+2. Senha deve ter no mínimo 6 caracteres
+3. Exibir o alerta "Credenciais inválidas" por 10 segundos quando o login for inválido
+4. A página de login deve conter um link para página de cadastro
 
-- Criar mapa mental com o planejamento e depois exportar um pdf (escolha a ferramenta que quiser);
+- Sobre o **Criar Perfil**
+1. Campo status e conhecimentos são obrigatórios
+2. Campos de URLs devem ter validação se o formato é válido
+3. Ao salvar um perfil, o usuário é redirecionado para a página de Dashboard
+4. No perfil não é necessário adicionar formação acadêmica ou experiência profissional.
+
+## Desafio 1 - Planejamento de Testes
+
+- Resumo: A pessoa que se candidatou ao desafio deve fazer um planejamento de testes da aplicação **Conexão QA**, sempre que possível aplicando técnicas de testes, heuristicas, entre outros.
+
+- Criar cenários de testes com fluxos principais e alternativos (**Cenários em Gherkin** será um diferencial, aplicando melhores práticas de otimização);
+
+- Criar mapa mental com o planejamento e depois exportar para um arquivo em formato PDF ou imagem no formato JPEG (escolha a ferramenta que quiser);
 
 - Criar evidencias do resultado de sucesso dos testes;
 
 - Caso ache um bug, reportar o bug;
 
-- Os Testes de api no postman deve cobrir os cenários de cadastro e login, conforme especificação. 
+- Os Testes de API no Postman deve cobrir os cenários de cadastro, login e criação de perfil conforme especificação. 
 
 - Gerar evidencia dos testes de API ( print ou colection???)
 Se colection subir no repositório
@@ -38,10 +67,10 @@ Organização
 Aplicaçào de técnicas 
 Gramática
 Clareza 
-Etc.
+Outros aspectos...
 
 ## Grupo 2 - Testes automatizados
-Rascunho:
+
 - Automação de frontend e backend usando a linguagem de programação e o framework a sua escolha;
 
 - Boas práticas (patterns) serão consideradas;
@@ -56,6 +85,10 @@ Rascunho:
 
 
 #### Critérios de avaliação do Grupo 2
+
+- Clean code
+- Design Patterns 
+
 
 
 ## Premiação  
