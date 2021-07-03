@@ -69,7 +69,7 @@ Gramática
 Clareza 
 Outros aspectos...
 
-## Grupo 2 - Testes automatizados
+## Desafio 2 - Testes automatizados
 
 - Automação de frontend e backend usando a linguagem de programação e o framework a sua escolha;
 
@@ -84,7 +84,7 @@ Outros aspectos...
 - Ao final, suba seu projeto no repositório do github, até o horário estipulado pela organização ( ver no fim do arquivo) 
 
 
-#### Critérios de avaliação do Grupo 2
+#### Critérios de avaliação do Desafio 2
 
 - Clean code
 - Design Patterns 
@@ -93,7 +93,7 @@ Outros aspectos...
 
 ## Premiação  
 
-### Grupo 1 - Planejamento de testes
+### Desafio 1 - Planejamento de testes
 #### 1º lugar: 
 - R$ 1000,00 + voucher ZenKlub + 1 curso da Iterasys a escolher.
 #### 2º lugar: 
@@ -101,7 +101,7 @@ Outros aspectos...
 #### 3º lugar: 
 - R$ 300,00 + voucher ZenKlub + 1 curso da Iterasys a escolher.
 
-### Grupo 2 - Automação de testes
+### Desafio 2 - Automação de testes
 #### 1º lugar:
 - R$ 1200,00 + voucher Ambev  + 1 curso da Iterasys a escolher.
 #### 2º lugar: 
