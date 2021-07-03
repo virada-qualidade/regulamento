@@ -62,7 +62,7 @@ Se print anexar no documento
 
 - Ao final, suba os arquivos no repositório do github, até o horário estipulado pela organização ( ver no fim do arquivo) 
 
-#### Critérios de avaliação do Grupo 1
+#### Critérios de avaliação do Desafio 1
 Organização
 Aplicaçào de técnicas 
 Gramática
